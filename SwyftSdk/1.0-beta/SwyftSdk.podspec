@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC "A mobile sdk to integrate to allow a client application to authorize and register agains swyft systems and a vision storea."
+  spec.description  = <<-DESC "A mobile sdk to integrate to allow a client application to authorize and register against swyft systems and a vision storea."
                    DESC
 
   spec.homepage     = "http://www.swyft.com"
@@ -53,8 +53,6 @@ Pod::Spec.new do |spec|
   #
 
   spec.author             = { "tommanuelswyft" => "tmanuel@dropspot.com" }
-  # Or just: spec.author    = "tommanuelDS"
-  # spec.authors            = { "tommanuelDS" => "tmanuel@dropspotusa.com" }
   # spec.social_media_url   = "https://twitter.com/tommanuelDS"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
